@@ -11,7 +11,7 @@ About Me
 My Tech Stack
 Here are some of the technologies and tools I love to work with:
 
-🌐 Frontend: HTML, CSS, JavaScript, React, NodeJS
+🌐 Frontend: HTML, CSS, Tailwind, JavaScript, React, NodeJS
 📝 Blockchain: Ethereum, Solidity
 🚀 Tools: VS Code, Git, Thirdweb, Firebase
 🌐 Hosting: Netlify, Namecheap
