@@ -1,4 +1,4 @@
-Hi there! 👋 I'm metalekan from Nigeria
+Hi there! 👋 I'm metalekan by Nickname
 
 A Frontend and Solidity Developer passionate about creating blockchain-powered apps and user-friendly web interfaces.
 
