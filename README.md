@@ -1,4 +1,4 @@
-Hi there! 👋 I'm metalekan by Nickname
+Hi there! 👋 I'm metalekan
 
 A Frontend and Solidity Developer passionate about creating blockchain-powered apps and user-friendly web interfaces.
 
